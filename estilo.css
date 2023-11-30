@@ -1,0 +1,88 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: lightgray;
+	font-family: "Roboto", sans-serif;
+}
+
+img{
+	margin: auto;
+	/*border: 1px solid red;*/
+	display:block;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+form{
+	/*border: 1px solid red;*/
+	width: 400px;
+	height: 400px;	
+	margin: auto;
+	background-color: white;
+}
+
+label{
+	margin-left: 10px;
+}
+
+
+input{
+	width: 90%;
+	height: 45px;
+	background-color: #f5f8f9; 	
+	font-family: "Roboto", sans-serif;
+	border: 1px solid #e8eeef;
+	border-radius: 5px;
+	color: #252525;
+	padding: 0px 5px 0px 5px;
+	margin: 10px 0px 10px 10px;
+
+}
+
+button{
+	width: 94%;
+	height: auto;
+	background: #3aa871;
+	border: 0;
+	color: white;	
+	font-family: "Roboto", sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	padding: 17px 0 17px 0;
+	margin-top: 20px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+
+a{
+	text-align: center;	
+	display: block;
+	text-decoration: none;
+	color: #095cdd;
+	font-weight: 600;
+	padding: 16px;
+}
+
+footer{
+	display: block;
+	text-align: center;
+	color: #757575;
+	margin-top: 22px;
+}
+
+
+
+    	
+		   
+		 
+		
+	
+
+
+	
+	
+
+
+	
