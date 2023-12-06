@@ -1,0 +1,49 @@
+.title {
+    text-align: center;
+}
+#banner {
+    width: 100%;
+}
+
+.sobre{
+    background-color: #ccc;
+    padding: 30px;
+}
+.subtitle {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#mission {
+    font-size: 20px;
+}
+
+em strong {
+    color: #f00;
+}
+ul {
+    display: inline-block;
+    padding: 0% 20%;
+    vertical-align: top;
+
+}
+ul li{
+    list-style: none;
+
+}
+
+.items{
+    font-style: italic;
+}
+.secao_beneficios {
+    background: #fff;
+    border: 1px solid  #ccc;
+    margin: 2% 0%; 
+    padding-bottom: 10px;
+}
+.imgbeneficios {
+    width: 25%;
+}
